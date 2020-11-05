@@ -2,4 +2,4 @@
 
 It is the modpack HelloNeighbor
 for HeliosLauncher
-(created by me)
+(modpack created by me)
